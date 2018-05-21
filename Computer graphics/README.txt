@@ -1,0 +1,1 @@
+This project is a Basketball Game in C-programming that implements the concepts of computer graphics.
